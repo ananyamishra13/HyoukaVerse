@@ -1,10 +1,7 @@
 # 🌸 Hyoukaverse — A Hyouka Anime Fan Website
-
-> *"If I don't have to do it, I won't.  
+*"If I don't have to do it, I won't.  
 If I have to do it, I'll make it quick."*  
 — Oreki Houtarou
-
----
 
 ## 🩵 Overview
 
@@ -14,8 +11,6 @@ From detailed episode guides to interactive fan art galleries, **Hyoukaverse** c
 
 🔗 **Live Demo:** [https://hyouka-anime-fan-website.vercel.app/](https://hyouka-anime-fan-website.vercel.app/)
 
----
-
 ## 🌼 Features
 
 - 🎞️ **Episode Guide** — 22 beautifully arranged episodes with alternating layouts and short summaries.  
@@ -24,7 +19,6 @@ From detailed episode guides to interactive fan art galleries, **Hyoukaverse** c
 -  🌐 **Community Forum (Planned)** — A place for fans to discuss episodes, share fan art, and connect.  
 - 🌙 **Responsive Design** — Smooth and optimized experience for all devices.
 
----
 
 ## 🧩 Tech Stack
 
@@ -35,8 +29,6 @@ From detailed episode guides to interactive fan art galleries, **Hyoukaverse** c
 | **Version Control** | Git + GitHub |
 
 
----
-
 ## 🖼️ Preview
 
 ! Landing page (screenshots/landing-page1.png)
@@ -44,7 +36,6 @@ From detailed episode guides to interactive fan art galleries, **Hyoukaverse** c
 ! Episode Guide (screenshots/episodes.png)
 ! Timeline (screenshots/timeline.png)
 ! Fanart (screenshots/fan-art.png)
----
 
 ## 💡 Inspiration
 
@@ -52,7 +43,6 @@ From detailed episode guides to interactive fan art galleries, **Hyoukaverse** c
 The website reflects the anime’s aesthetic — soft tones, minimalism, and the elegance of curiosity.  
 Each animation and layout is designed to mirror the show’s calm, reflective nature.
 
----
 
 ## 🔮 Future Enhancements
 
